@@ -11,6 +11,3 @@ After this exercise, you will have practiced and know how to make contributions 
 
 ## The Problem
 Build this list _[A,1,B,2,C,3,D,4]_ and print output
-
-## Contributors
-This problem was created by Kendall Fortney with the help of John Meluso.
