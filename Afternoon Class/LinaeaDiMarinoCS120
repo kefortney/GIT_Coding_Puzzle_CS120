@@ -1,1 +1,6 @@
-
+ranList=[]
+i = 0
+for i < 4:
+  ranList[i(2)]=i
+  ranList[2(i)+1]=char(065+i)
+print(ranList)
