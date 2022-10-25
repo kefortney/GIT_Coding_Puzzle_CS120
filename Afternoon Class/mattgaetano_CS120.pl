@@ -6,7 +6,5 @@ use warnings;
 my @list = ("A", "1", "B", "2", "C", "3", "D", "4");
 
 print "[";
-foreach $item (@list) {
-  print $item + ", ";
-}
+print join(", ", @list);
 print "]";
