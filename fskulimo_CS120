@@ -1,0 +1,22 @@
+import java.util.Vector;
+import java.util.*;
+// Filip Skulimowski CS120 Activity in Java
+public class Main {
+    public static void main(String args[]) {
+        // Initialize Vector and add values
+        Vector<String> vecToPrint = new Vector<>();
+
+        vecToPrint.add("A");
+        vecToPrint.add("1");
+        vecToPrint.add("B");
+        vecToPrint.add("2");
+        vecToPrint.add("C");
+        vecToPrint.add("3");
+        vecToPrint.add("D");
+        vecToPrint.add("4");
+        // Print Vector
+        for (int i = 0; i < vecToPrint.size(); i++) {
+            System.out.print(vecToPrint.get(i));
+        }
+    }
+}
